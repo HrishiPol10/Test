@@ -6,8 +6,6 @@ scipy<1.6.0
 
 tensorflow==2.4.1
 pandas<=1.2.3
-
-Pillow==8.1.0
 nltk>=3.5
 
 # Unspecified version
