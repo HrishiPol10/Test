@@ -1,22 +1,5 @@
 # This is a comment line
 requests==2.25.1
 numpy>=1.18.0
+numpy>=1.19.0
 scipy<1.6.0
-
-# Another comment
-tensorflow==2.4.1
-pandas<=1.2.3
-nltk>=3.5
-nltk>=3.5
-
-# This is a comment line
-requests==2.25.1
-numpy>=1.18.0
-scipy<1.6.0
-
-# Unspecified version
-sklearn
-
-pyyaml  # Unspecified version
-
-
